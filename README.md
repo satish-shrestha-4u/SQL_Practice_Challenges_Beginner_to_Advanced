@@ -17,4 +17,4 @@ Available schemas:
 - `schemas/magist/` — Magist e-commerce database schema and ER diagram *
 
 *Large original dump files are not included when they are too large for GitHub.
-*Instead, the repository includes schema structures, ER diagrams, and small sample data files where possible.
+Instead, the repository includes schema structures, ER diagrams, and small sample data files where possible.
