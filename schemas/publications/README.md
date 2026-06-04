@@ -1,4 +1,4 @@
-# Publication Schema
+# Publications Schema
 
 This folder contains the SQL schema and ER diagram used for publication-related SQL practice challenges.
 
