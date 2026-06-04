@@ -1,4 +1,5 @@
-
+# Publications SQL Challenges
+This folder contains SQL practice challenges based on the publications database schema.
 
 Topics Covered
 The challenges are related to topics such as filtering, sorting, aggregations, grouping, joins, CASE statements, subqueries, functions, and basic maths operations in SQL.
