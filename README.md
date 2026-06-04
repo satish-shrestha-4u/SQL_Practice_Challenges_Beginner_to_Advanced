@@ -1,4 +1,4 @@
-# SQL_Practice_Challenges_Beginner_to_Advance
+# SQL_Practice_Challenges_Beginner_to_Advanced
 SQL Learning Archive- 30 Days of Practice
 # SQL Practice Challenges
 
