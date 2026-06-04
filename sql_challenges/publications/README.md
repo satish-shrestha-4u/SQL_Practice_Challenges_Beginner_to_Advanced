@@ -1,6 +1,12 @@
 # Publications Schema
 
-This folder contains the schema files and ER diagram for the Publication database.
+This folder contains the schema files and ER diagram for the publications database.
+
+Topics Covered
+The challenges are related to topics such as filtering, sorting, aggregations, grouping, joins, CASE statements, subqueries, functions, and basic maths operations in SQL.
+
+The challenge files are organised by database schema and SQL topic.
+Each .sql file contains practice queries related to the topic shown in the file name.
 
 The related SQL challenges are stored in:
 
