@@ -9,4 +9,10 @@ This repository documents my learning journey and serves as a reference for futu
 
 The database schemas used for the SQL challenges are stored in the `schemas/` folder.
 
-The IMDB schema is stored in `schemas/imdb/`. Large original dump files are not included; instead, the repository contains table structures and small sample data files.
+Available schemas:
+
+- `schemas/imdb/` — IMDB database schema and ER diagram. Large original dump files are not included; instead, the repository contains table structures and small sample data files.
+
+- `schemas/publications/` — Publications database schema and ER diagram
+
+- `schemas/music_beginner/` — Music_beginner database schema and ER diagram
