@@ -11,8 +11,10 @@ The database schemas used for the SQL challenges are stored in the `schemas/` fo
 
 Available schemas:
 
-- `schemas/imdb/` — IMDB database schema and ER diagram. Large original dump files are not included; instead, the repository contains table structures and small sample data files.
-
+- `schemas/imdb/` — IMDB database schema and ER diagram *
 - `schemas/publications/` — Publications database schema and ER diagram
-
 - `schemas/music_beginner/` — Music_beginner database schema and ER diagram
+- `schemas/magist/` — Magist e-commerce database schema and ER diagram *
+
+*Large original dump files are not included when they are too large for GitHub.
+*Instead, the repository includes schema structures, ER diagrams, and small sample data files where possible.
