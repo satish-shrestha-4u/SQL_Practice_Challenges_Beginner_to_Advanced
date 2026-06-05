@@ -1,6 +1,6 @@
 # Magist SQL Challenges
 
-This folder contains SQL practice challenges based on the Magist database schema.
+This folder contains SQL practice challenges based on the Magist database schema. (Used in other projects/refer to other projects)
 
 Topics Covered
 The challenges are related to topics such as filtering, sorting, aggregations, grouping, joins, CASE statements, subqueries, functions, and basic maths operations in SQL.
